@@ -17,6 +17,9 @@ header ul li {
 ---
 
 ### 2. Se añadieron inconos y se les puso un efecto de crecimiento al pasar el cursor por estos
+
+![image](https://github.com/user-attachments/assets/3d4246e4-0d6a-4ef8-bac8-c4f80ef91773)
+
 ```css
 header ul li i {
     font-size: 22px;
